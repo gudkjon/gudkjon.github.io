@@ -1,6 +1,6 @@
 body {
   /*padding-top: 70px;*/
-  padding-top: 5%;
+  /*padding-top: 5%;*/
   padding-bottom: 30px;
 }
 
@@ -16,4 +16,15 @@ body {
 
 .theme-showcase .navbar .container {
   width: auto;
+}
+
+/*#myCarousel {
+		position: relative;
+ 		margin-top: 10px;
+}*/
+@media (max-width: 767px) {
+	#myCarousel {
+		position: relative;
+ 		margin-top: 0px;
+	}
 }
