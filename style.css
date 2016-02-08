@@ -24,6 +24,7 @@ body {
 
 .carousel {
   position: absolute;
+  max-width: 100%;
 }
 
 .navbar {
