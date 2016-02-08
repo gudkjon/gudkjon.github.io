@@ -18,6 +18,10 @@ body {
   width: auto;
 }
 
+.bannerContainer {
+    position:relative;     
+}
+
 /*.carousel {
 		position: relative;
  		margin-top: 0px;
