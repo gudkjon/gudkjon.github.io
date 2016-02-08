@@ -22,6 +22,14 @@ body {
     position:relative;     
 }
 
+.carousel {
+  position: absolute;
+}
+
+.navbar {
+
+}
+
 /*.carousel {
 		position: relative;
  		margin-top: 0px;
