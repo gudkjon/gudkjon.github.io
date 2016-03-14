@@ -31,6 +31,12 @@ body {
 
 }
 
+.item img {
+  width: auto;
+  height: 480px;
+  max-height: 480px;
+}
+
 /*.carousel {
 		position: relative;
  		margin-top: 0px;
